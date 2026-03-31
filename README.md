@@ -84,11 +84,24 @@ The analysis focuses on transforming raw data into meaningful insights using Pyt
 * Frequent appearances of certain actors and directors suggest strong collaborations
 
 
+## 📊 Sample Visualizations
+
+### Top Genres on Netflix
+![Top Genres](genres.png)
+
+### Content Growth Over the Years
+![Year Trend](year_trend.png)
+
+### Distribution of Release Years
+![Release Year Distribution](release_year_distribution.png)
+
+### Global Expansion of Netflix
+![Global Expansion](global_expansion.png)
+
 
 ## 🏁 Conclusion
 
 Netflix has significantly expanded its content library over time, especially after 2015. The platform has evolved into a global content provider, focusing on diverse, modern, and mature content to cater to a wide international audience.
-
 
 
 ## 📎 Author
