@@ -7,11 +7,10 @@ This project performs an Exploratory Data Analysis (EDA) on the Netflix dataset 
 The analysis focuses on transforming raw data into meaningful insights using Python and visualization techniques.
 
 
-
 ## 📂 Dataset
 
 * Source: Kaggle
-* Dataset: Netflix Movies and TV Shows
+* Dataset: Netflix Movies and TV Shows (The dataset is included in this repository as `netflix_titles.csv`)
 * Contains information such as:
 
   * Title, Director, Cast
